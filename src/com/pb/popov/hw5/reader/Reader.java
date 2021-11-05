@@ -28,7 +28,6 @@ public class Reader {
         for (String str : names) {
             System.out.println(str);
         }
-
     }
 
     public void takeBook(Book... name) {
